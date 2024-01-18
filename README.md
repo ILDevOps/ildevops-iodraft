@@ -9,7 +9,7 @@ Slack: https://ildevops.slack.com
 RSVP for Calendar Events: [AnsibleIL Google Form](https://forms.gle/xdcasEHsouwLJuNJA)
 
 ## TODO
-- Install a GitHub Pages theme
+- ~~Install a GitHub Pages theme~~
 - Make a Future Topics Space
 - Make a schedule space + Start a meeting schedule for 2024
 - Add learning resources list
