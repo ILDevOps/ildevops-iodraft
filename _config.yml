@@ -36,6 +36,25 @@ theme_config:
      title_topic_list: Future Topics
     title_notes: Past Notes
     #title_people: People
+  topic_entries:
+  - title: Requested topic
+    url: false
+
+  - title: Proposed topic
+    url: false
+
+  - title: Introduction to Git
+    url: false
+
+  - title: Nuts and Bolts - UIUC
+    url: https://cybersecurity.illinois.edu/nuts-and-bolts-talks/
+    entries:
+      - title: Further detail
+        url: false
+
+      - title: Another talk
+        url: false
+ 
 
 #soopr:
 #  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
