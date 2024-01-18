@@ -26,9 +26,9 @@ events_entries:
 
 
 topic_entries:
-  - title: Soopr
+  - title: Future Topics
     url: topics
-    desc: Future topic for IL DevOps events
+    desc: Future topics for IL DevOps events
     #highlight: NEW
 
 
