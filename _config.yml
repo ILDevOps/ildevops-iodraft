@@ -1,8 +1,16 @@
+# Site wide configuration
+
+title:            Illinois DevOps
+locale:           en_US
+url:              https://ildevops.github.io
+
+# Jekyll configuration
 remote_theme: jdelaporte/moonwalk
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
-- jekyll-soopr-seo-tag
+- jekyll-seo-tag
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
@@ -35,3 +43,12 @@ highlighter: rouge
 sass:
   style: :compressed
 
+# Site owner
+owner:
+  name: Joanna Delaporte
+  #avatar: 
+  bio: "Meetup founder"
+  email: joanna@delaporte.us
+  twitter: jdelaportev
+  github: jdelaporte
+  linkedin: joanna-delaporte
