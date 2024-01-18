@@ -1,4 +1,7 @@
-Static site for IL DevOps to collaborate, share, and store meetup information.
+## About this site
+This is a collaboration site for the IL DevOps meetup.
+The site is live at https://ildevops.github.io.
+Code and resources are managed in this repo at https://github.com/ILDevOps/ildevops.github.io.
 
 
 ## Where to find us
