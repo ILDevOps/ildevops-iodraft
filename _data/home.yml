@@ -1,12 +1,15 @@
 navbar_entries:
-  - title: about
-    url: about
+#  - title: about
+#    url: about
 
   - title: Schedule
     url: schedule
 
   - title: Topics
     url: topics
+
+  - title: Notes
+    url: notes
 
 project_entries:
   - title: Project 1
