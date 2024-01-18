@@ -17,4 +17,5 @@ RSVP for Calendar Events: [AnsibleIL Google Form](https://forms.gle/xdcasEHsouwL
 - Make a schedule space + Start a meeting schedule for 2024
 - Add learning resources list
 - Update RSVP google form with new name. Consider alternative workflows - GitHub issue?
-- 
+- Create mechanism for requesting or volunteering for topics
+- Invite members to Slack
